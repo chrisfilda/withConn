@@ -1,0 +1,6 @@
+\\psf\Home\Desktop\Withings\Withings\bin\Debug\Withings.exe.config
+\\psf\Home\Desktop\Withings\Withings\bin\Debug\Withings.exe
+\\psf\Home\Desktop\Withings\Withings\bin\Debug\Withings.pdb
+\\psf\Home\Desktop\Withings\Withings\obj\Debug\Withings.csprojResolveAssemblyReference.cache
+\\psf\Home\Desktop\Withings\Withings\obj\Debug\Withings.exe
+\\psf\Home\Desktop\Withings\Withings\obj\Debug\Withings.pdb
